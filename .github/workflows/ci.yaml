@@ -1,4 +1,4 @@
-name: Build and Scan Docker container.
+name: Build and Scan Docker container
 
 on:
   push:

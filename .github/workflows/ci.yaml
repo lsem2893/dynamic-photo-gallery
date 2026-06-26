@@ -1,4 +1,3 @@
-# This workflow will build a Docker container for the photo-app and push it to Docker Hub whenever there is a push to the Adding-CI branch.
 name: Build and Scan Docker container
 
 on:

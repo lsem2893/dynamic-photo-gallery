@@ -23,7 +23,7 @@ jobs:
         with:
           image-ref: ${{ secrets.DOCKER_USERNAME }}/photo-app:${{ github.sha }}
           format: table
-          severity: CRITICAL
+          severity: HIGH
           exit-code: '1'
           ignore-unfixed: true
       
